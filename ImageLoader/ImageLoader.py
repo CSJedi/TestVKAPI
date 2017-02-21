@@ -4,8 +4,8 @@
 from urllib.request import urlretrieve
 import vk, os, time, math
 
-login = 'zhidejkina@gmail.com'
-password = 'Black1396'
+login = ''
+password = ''
 # appID = '5845299'do not need anymore
 
 session = vk.Session()
